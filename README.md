@@ -1,5 +1,15 @@
-## Hi there 👋
 
+# Hey, Aditya Here!
+
+### 📱 Android & AOSP Tinkerer
+- 🚀 **Current Focus:** Building some custom ROMs & planning to bring **official** updates for the Motorola G34 (`fogos`).
+- 🎧 **Interests:** High-fidelity audio technology, digital codecs, and Android audio stack optimization.
+- ⚙️ **Workflow:** Custom AOSP builds via Crave & GitHub Actions automation.
+
+### 🛠 Tech Stack & Tools
+- **OS Target:** Android / AOSP (Android 15 / 16)
+- **Device Platform:** Snapdragon 695 / SM6375 (`fogos`)
+- **Build Tools:** Git, Crave FOSS, GitHub Actions
 <!--
 **adi6545/adi6545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
