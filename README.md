@@ -7,7 +7,7 @@
 - ⚙️ **Workflow:** Custom AOSP builds via Crave & GitHub Actions automation.
 
 ### 🛠 Tech Stack & Tools
-- **OS Target:** Android / AOSP (Android 15 / 16)
+- **OS Target:** Android / AOSP (Android 15 / 16 / 17)
 - **Device Platform:** Snapdragon 695 / SM6375 (`fogos`)
 - **Build Tools:** Git, Crave FOSS, GitHub Actions
 
