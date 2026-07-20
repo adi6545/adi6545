@@ -10,6 +10,17 @@
 - **OS Target:** Android / AOSP (Android 15 / 16)
 - **Device Platform:** Snapdragon 695 / SM6375 (`fogos`)
 - **Build Tools:** Git, Crave FOSS, GitHub Actions
+
+
+- # Telegram Communities
+
+**Administrator**
+• @MotoG34Brasil
+• @JNW_HUB
+• @shipu07buildsgroup
+
+**Community Owner**
+• @TheEuthymia
 <!--
 **adi6545/adi6545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
