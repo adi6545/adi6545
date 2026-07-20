@@ -15,7 +15,7 @@
 - # Telegram Communities
 
 ### Administrator
-- @MotoG34Brasil
+- [@MotoG34Brasil](https://t.me/MotoG34Brasil)
 - @JNW_HUB
 - @shipu07buildsgroup
 
