@@ -15,12 +15,12 @@
 - # Telegram Communities
 
 ### Administrator
-• @MotoG34Brasil
-• @JNW_HUB
-• @shipu07buildsgroup
+- @MotoG34Brasil
+- @JNW_HUB
+- @shipu07buildsgroup
 
 ### Community Owner
-• @TheEuthymia
+- @TheEuthymia
 <!--
 **adi6545/adi6545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
