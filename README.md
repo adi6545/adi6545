@@ -2,7 +2,7 @@
 # Hey, Aditya Here!
 
 ### 📱 Android & AOSP Tinkerer
-- 🚀 **Current Focus:** Building some custom ROMs & planning to bring **official** updates for the Motorola G34 (`fogos`).
+- 🚀 **Current Focus:** Learning AOSP compilation & plan to bring **official** updates for the Motorola G34 (`fogos`).
 - 🎧 **Interests:** High-fidelity audio technology, digital codecs, and Android audio stack optimization.
 - ⚙️ **Workflow:** Custom AOSP builds via Crave & GitHub Actions automation.
 
