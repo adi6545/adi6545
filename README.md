@@ -11,16 +11,6 @@
 - **Device Platform:** Snapdragon 695 / SM6375 (`fogos`)
 - **Build Tools:** Git, Crave FOSS, GitHub Actions
 
-
-- # Telegram Communities
-
-### Administrator
-- [@MotoG34Brasil](https://t.me/MotoG34Brasil)
-- [@JNW_HUB](https://t.me/JNW_HUB)
-- [@shipu07buildsgroup](https://t.me/shipu07buildsgroup)
-
-### Community Owner
-- [@TheEuthymia](https://t.me/TheEuthymia)
 <!--
 **adi6545/adi6545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
